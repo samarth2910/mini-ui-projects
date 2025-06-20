@@ -34,7 +34,7 @@ These micro-projects help me:
 
 ## 🙏 Credits
 
-Tutorial inspiration from [Sheriyan's Coding School](https://www.instagram.com/sheriyanscodingschool/)  
+Tutorial inspiration from [Sheriyan's Coding School](https://youtube.com/@sheryians?si=CyCEOiGlghfWkEmB)  
 These projects are recreated for educational and non-commercial purposes.
 
 ---
