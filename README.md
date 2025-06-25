@@ -1,51 +1,76 @@
-# 💡 Mini UI Projects
+# 💡 FB Feature Clone — Mini UI Projects
 
-A collection of small frontend UI features built using HTML, CSS, and JavaScript.  
-These projects are created as part of my frontend development learning journey.
+A set of small frontend UI interactions recreated using **HTML**, **CSS**, and **JavaScript**.  
+This mini-project collection is focused on cloning popular social media UI behaviors as part of my frontend learning journey.
 
 ---
 
-## 📌 Current Feature
+## ✅ Completed Projects
 
-### 🔹 FB Add Friend Feature Clone
-A simple clone of Facebook's "Add Friend" interaction:
-- Toggles between "Stranger" and "Friends"
-- Dynamically updates text and color
-- Built with basic HTML, CSS, and JavaScript
+### 🔹 1. Friend Request Button (Facebook Style)
+
+A simple toggle interaction inspired by Facebook's "Add Friend" feature:
+
+- Click to toggle between **"Add Friend" ↔ "Friends"**
+- Button text and color change dynamically
+- Built using JavaScript DOM manipulation and basic event handling
+
+---
+
+### 🔹 2. Double Tap Like (Instagram Style)
+
+Mimics Instagram’s double-tap post-like animation:
+
+- Clicking the image triggers a heart animation overlay  
+- Uses CSS keyframes + JavaScript for interaction  
+- Great for practicing timed visual feedback and custom animations
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3 (Flexbox, Transitions)  
-- JavaScript (Vanilla DOM Manipulation)
+- **HTML5**  
+- **CSS3** (Flexbox, Keyframes, Transitions)  
+- **Vanilla JavaScript** (DOM manipulation, event handling)
 
 ---
 
-## 🎯 Purpose
+## 🎯 Why I Built These
 
-These micro-projects help me:
-- Practice and apply frontend concepts
-- Recreate real-world UI interactions
-- Build a foundation for larger projects
+- To replicate real-world UI patterns from apps like Facebook and Instagram  
+- Practice JS logic, CSS animation, and user interaction  
+- Build confidence before diving into React
 
 ---
 
 ## 🙏 Credits
 
-Tutorial inspiration from [Sheriyan's Coding School](https://youtube.com/@sheryians?si=CyCEOiGlghfWkEmB)  
-These projects are recreated for educational and non-commercial purposes.
+Tutorial inspiration from [Sheryians Coding School](https://youtube.com/@sheryians?si=CyCEOiGlghfWkEmB)  
+These are educational-only practice projects.
 
 ---
 
-## 🚧 Features Coming Soon
+## 🧠 What I Practiced
 
-- Instagram Like Animation  
-- Hover Image Reveal Effect  
-- Custom Cursor Interaction  
-- Instagram Story UI Clone
+- DOM selection & event listeners  
+- Toggling classes and text content  
+- CSS animations and transitions  
+- Delayed visual feedback (`setTimeout`)
 
 ---
 
-Feel free to explore, fork, or give feedback!
+## 📂 Project Structure
+
+fb-feature-clone/
+├── friend-request/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+├── double-tap-insta/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+└── README.md
+
+Feel free to suggest improvements!  
+I'm always open to feedback as I build my frontend skills.
