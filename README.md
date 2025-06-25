@@ -60,7 +60,7 @@ These are educational-only practice projects.
 ---
 
 ## 📂 Project Structure
-
+```
 fb-feature-clone/
 ├── double-tap-insta/
 │   ├── index.html
@@ -71,7 +71,7 @@ fb-feature-clone/
 │   ├── style.css
 │   └── script.js
 ├── README.md
-
+```
 
 Feel free to suggest improvements!  
 I'm always open to feedback as I build my frontend skills.
